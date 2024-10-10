@@ -1,0 +1,5 @@
+Car ID: 1
+Car Model: 
+Year of Manufacture: 1
+Price: 11
+Car Color : 1
